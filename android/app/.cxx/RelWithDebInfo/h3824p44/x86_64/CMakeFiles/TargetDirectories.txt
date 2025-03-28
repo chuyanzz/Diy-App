@@ -1,0 +1,2 @@
+C:/Users/Nitro/app2/android/app/.cxx/RelWithDebInfo/h3824p44/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Nitro/app2/android/app/.cxx/RelWithDebInfo/h3824p44/x86_64/CMakeFiles/rebuild_cache.dir
